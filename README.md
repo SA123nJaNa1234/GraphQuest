@@ -31,7 +31,7 @@ It is designed to improve understanding of traversal and shortest-path algorithm
 
 | Color    | Meaning        |
 | -------- | -------------- |
-| 🟢 Green | Unvisited Node |
+| 🟢 Grey | Unvisited Node |
 | 🔵 Blue  | Visited Node   |
 | 🔴 Red   | Goal Node      |
 
