@@ -87,7 +87,7 @@ It is designed to improve understanding of traversal and shortest-path algorithm
 
 
 
-[▶ Watch Demo](demo.mp4)
+[▶ Watch Demo](demo.gif)
 
 
 ---
